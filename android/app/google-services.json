@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874703258183",
+    "firebase_url": "https://quiz-87b9d.firebaseio.com",
+    "project_id": "quiz-87b9d",
+    "storage_bucket": "quiz-87b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874703258183:android:2e05164ccb073025516762",
+        "android_client_info": {
+          "package_name": "wintec.jon.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874703258183-t6p1u79o61m49ob49ufn45t79ga5lgkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wintec.jon.quiz",
+            "certificate_hash": "a5586061feaea95bb190fc94f62654b878ef2e9c"
+          }
+        },
+        {
+          "client_id": "874703258183-v27ktrequ0urc02q6bk8che59ujbvre4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUF16bpd5LYGJslUUNVh44BgqoBchW_ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874703258183-v27ktrequ0urc02q6bk8che59ujbvre4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874703258183-b2k8qqsu40l7c80ik92ff2vrr2k37t9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wintec.jon.quiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "1": "Who invented the game in 1891?",
+    "2": "How many players in total are on a basketball court at the same time?",
+    "3": "The United States men's Olympic basketball team, nicknamed the \"Dream Team\", competed in which year at the Olympics?",
+    "4": "Who is the best basketball player in New Zealand?",
+    "5": "Who won the NBA's Most Valuable Player a record six times, between 1971 and 1980, while playing for the Milwaukee Bucks and the Los Angeles Lakers?"
+  },
+  {
+    "1": {
+      "a": "James Naismith",
+      "b": "Albert Einstein",
+      "c": "George Washington",
+      "d": "Steven Adams"
+    },
+    "2": {
+      "a": "12 (6-a-side)",
+      "b": "10 (5-a-side)",
+      "c": "18 (9-a-side)",
+      "d": "6 (3-a-side)"
+    },
+    "3": {
+      "a": "1992 (Barcelona)",
+      "b": "2008 (Beijin)",
+      "c": "1896 (Athens)",
+      "d": "2004 (Athens)"
+    },
+    "4": {
+      "a": "Andrea Hewitt",
+      "b": "Valerie Adams",
+      "c": "Chris Wood",
+      "d": "Steven Adams"
+    },
+    "5": {
+      "a": "Tim Duncan",
+      "b": "Kobe Bryant",
+      "c": "LeBron James",
+      "d": "Kareem Abdul-Jabbar"
+    }
+  },
+  {
+    "1": "James Naismith",
+    "2": "10 (5-a-side)",
+    "3": "1992 (Barcelona)",
+    "4": "Steven Adams",
+    "5": "Kareem Abdul-Jabbar"
+  },
+  {
+    "1": "assets/James_Naismith.jpg",
+    "2": "null",
+    "3": "null",
+    "4": "assets/Steven_Adams.jpg",
+    "5": "assets/Jabbar.jpg"
+  }
+]

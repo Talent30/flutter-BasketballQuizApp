@@ -1,0 +1,56 @@
+[
+  {
+    "1": "The game's about to start. What does each team need to prepare for?",
+    "2": "You dribble down the court, pick up the ball, then dribble again. Why did the referee blow the whistle?",
+    "3": "Who gets to decide which jersey color each team is going to wear on the court?",
+    "4": "When the ball is knocked out of bounds, how long does a player have to throw it into a teammate?",
+    "5": "The clock is running down, so you shoot the ball from beyond half court and make it. How many points do you get?"
+  },
+  {
+    "1": {
+      "a": "Face off",
+      "b": "Kickoff",
+      "c": "A coin toss",
+      "d": "Tip off"
+    },
+    "2": {
+      "a": "You charged",
+      "b": "You traveled",
+      "c": "You over dribbled",
+      "d": "You caused a false start"
+    },
+    "3": {
+      "a": "Home team",
+      "b": "Away team",
+      "c": "Referees",
+      "d": "The league commissioner"
+    },
+    "4": {
+      "a": "5 seconds",
+      "b": "3 seconds",
+      "c": "8 seconds",
+      "d": "4 seconds"
+    },
+    "5": {
+      "a": "3",
+      "b": "2",
+      "c": "4",
+      "d": "5"
+    }
+
+  },
+  {
+    "1": "Tip off",
+    "2": "You over dribbled",
+    "3": "Home team",
+    "4": "5 seconds",
+    "5": "3"
+  },
+  {
+    "1": "null",
+    "2": "null",
+    "3": "null",
+    "4": "null",
+    "5": "null"
+  }
+]
